@@ -25,7 +25,7 @@ import CirclePack from 'circlepack-chart';
 ```
 or using a *script* tag
 ```html
-<script src="//unpkg.com/circlepack-chart"></script>
+<script src="//cdn.jsdelivr.net/npm/circlepack-chart"></script>
 ```
 then
 ```js
